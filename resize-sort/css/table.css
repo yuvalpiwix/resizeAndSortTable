@@ -1,0 +1,16 @@
+th {
+    background-color: #012b4d;
+    height: 30px;
+    background-repeat: no-repeat;
+    color: #FFF;
+    text-shadow: #012b4d 2px 2px 2px;
+    text-align: center;
+}
+
+.JCLRgrip {
+    margin-left: -5px;
+    position: absolute;
+    z-index: 5;
+    background: red;
+    width: 20px;
+}
